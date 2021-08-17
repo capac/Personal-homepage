@@ -6,3 +6,4 @@ _site
 Gemfile.lock
 vendor
 run-jekyll.sh
+_config.yml
