@@ -59,4 +59,4 @@ exclude:
   - Gemfile.lock
 
 # Google Analytics tracking ID
-google_analytics: UA-175596085-1
+google_analytics: ${GOOGLE_ANALYTICS_TRACKING_ID}
